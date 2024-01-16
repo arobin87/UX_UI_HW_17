@@ -95,7 +95,7 @@ header li{
 
 
 .heroImg{
-    height: 600px;
+    height: 650px;
     padding: 25px;
 }
 
@@ -124,10 +124,6 @@ header li{
     cursor: pointer;
 }
 
-.left button:hover{
-    background-color: ;
-}
-
 .right{
     float: right;
     width: 35%;
@@ -143,7 +139,7 @@ header li{
     position: fixed;
     right: -2;
     top: 0;
-}
+}*/
 
 .line-break{
     width:95%;
@@ -153,13 +149,12 @@ header li{
     border-top: 1px none black;
     border-bottom: 1px solid #888888;
     text-align: center;
-}*/
+}
 
 
 /*Footer Styles*/
 footer{
     background-color: #212121;
-    position: absolute;
     bottom: 0;
     width: 100%;
     height: 2.5rem;
@@ -170,7 +165,7 @@ footer{
     color: #FAC8CD;
     font-family: 'M PLUS 1', sans-serif;
     font-size: 24px;
-    position: fixed;
+    text-align: left;
     bottom: 0;
     left: 0;
     padding: 50px;
